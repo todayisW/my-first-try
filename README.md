@@ -1,2 +1,2 @@
 # my-first-try
-my first
+my first try to explore github
